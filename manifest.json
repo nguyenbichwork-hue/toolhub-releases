@@ -1,0 +1,15 @@
+{
+ "version": "2.3.3",
+ "ngay": "2026-07-29",
+ "ghi_chu": [
+  "Màn đăng nhập: hình dán giờ bóc đúng thứ tự từ trên xuống như tường dán thật",
+  "Hình dán còn bị cái khác đè lên thì rê chuột tới không ra bàn tay bóc nữa — bóc hết mấy cái nằm trên rồi mới tới lượt nó",
+  "Bỏ kiểu hình dán nhảy vọt lên trên cùng lúc kéo (nhìn giả), giữ nguyên lớp chồng",
+  "Mỗi cú kéo chỉ bóc rời đúng một hình, không kéo theo cả mảng"
+ ],
+ "zip_ten": "ToolHub_CapNhat_v2.3.3.zip",
+ "size": 1479056,
+ "sha256": "859236d151160de79ab113735648619d436555eaa5e4ca904ee84a5c3de6def2",
+ "chi_giao_dien": true,
+ "zip_url": "https://api.github.com/repos/nguyenbichwork-hue/toolhub-releases/releases/assets/493488096"
+}
