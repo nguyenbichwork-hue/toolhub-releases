@@ -1,15 +1,15 @@
 {
- "version": "2.3.3",
- "ngay": "2026-07-29",
+ "version": "2.3.4",
+ "ngay": "2026-07-31",
  "ghi_chu": [
-  "Màn đăng nhập: hình dán giờ bóc đúng thứ tự từ trên xuống như tường dán thật",
-  "Hình dán còn bị cái khác đè lên thì rê chuột tới không ra bàn tay bóc nữa — bóc hết mấy cái nằm trên rồi mới tới lượt nó",
-  "Bỏ kiểu hình dán nhảy vọt lên trên cùng lúc kéo (nhìn giả), giữ nguyên lớp chồng",
-  "Mỗi cú kéo chỉ bóc rời đúng một hình, không kéo theo cả mảng"
+  "SỬA LỖI NẶNG: bấm Cào ảnh nền trắng (và Cào giá / Cào thông tin) trên máy nhân viên là báo «[WinError 267] The directory name is invalid» — do máy không có thư mục engine D:\\toolhub\\TOOLS và không cài sẵn Python",
+  "Bộ engine cào (săn ảnh v3, cào giá, cào thông tin theo nhóm hàng) nay ĐÓNG GÓI SẴN trong app — cắm là chạy, không phải xin thư mục TOOLS, không phải cài Python",
+  "Thiếu Node.js thì tự bỏ qua đúng phần cần Node (Google Shopping, mô tả từ web) và báo rõ trong log, thay vì hỏng cả tiến trình",
+  "Mọi lỗi đường dẫn giờ ghi bằng tiếng Việt, chỉ rõ phải sửa ở đâu"
  ],
- "zip_ten": "ToolHub_CapNhat_v2.3.3.zip",
- "size": 1479056,
- "sha256": "859236d151160de79ab113735648619d436555eaa5e4ca904ee84a5c3de6def2",
- "chi_giao_dien": true,
- "zip_url": "https://api.github.com/repos/nguyenbichwork-hue/toolhub-releases/releases/assets/493488096"
+ "zip_ten": "ToolHub_CapNhat_v2.3.4.zip",
+ "size": 32545784,
+ "sha256": "e778af85f664929385ab742d24a6b43a874693c0dae7b00e88b1943c331bf439",
+ "chi_giao_dien": false,
+ "zip_url": "https://api.github.com/repos/nguyenbichwork-hue/toolhub-releases/releases/assets/496512952"
 }
