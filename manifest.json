@@ -20,8 +20,8 @@
   "Mọi lỗi đường dẫn giờ ghi bằng tiếng Việt, chỉ rõ phải sửa ở đâu"
  ],
  "zip_ten": "ToolHub_CapNhat_v2.4.0.zip",
- "size": 32584579,
- "sha256": "35f2f5ebda10d49570375b86ebb4bf7e7fcd34f245e4643bd6271461d6000805",
+ "size": 32584604,
+ "sha256": "7126e6946f976eb7bfbd83cc19cf2ffb04dc861ecf8c7cbd7930be5b46ddeea9",
  "chi_giao_dien": false,
- "zip_url": "https://api.github.com/repos/nguyenbichwork-hue/toolhub-releases/releases/assets/500842065"
+ "zip_url": "https://api.github.com/repos/nguyenbichwork-hue/toolhub-releases/releases/assets/500863327"
 }
